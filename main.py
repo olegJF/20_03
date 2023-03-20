@@ -1,4 +1,5 @@
 print('OK')
 print('OK')
 print('OK')
-print('OK')
+print('OK2')
+print('OK2')
